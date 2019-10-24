@@ -1,4 +1,4 @@
-#speed {
+/* #speed {
   display: none;
 }
 
@@ -8,8 +8,9 @@
 
 #grass {
   display: none;
-}
+} */
 
 #nothing {
   display: none;
+  background-color: red;
 }
